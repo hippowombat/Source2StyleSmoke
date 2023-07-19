@@ -4,6 +4,8 @@ Intermediate
 Saved
 .vscode
 .vs
+.idea
+Plugins/Developer/RiderLink
 *.VC.db
 *.opensdf
 *.opendb
